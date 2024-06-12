@@ -25,7 +25,7 @@ const Navbar2 = () => {
                     <p className='hidden md:block'>+917320070720</p>
                 </div>
             </div>
-            <div className='block md:hidden mt-7 bg-[#FFB612] rounded-md px-28 py-3'>
+            <div className='block md:hidden mt-7 bg-[#FFB612] rounded-md px-24 py-3'>
                 <button>Book Now</button>
             </div>
           </div>
