@@ -6,7 +6,7 @@ import { SlCalender } from "react-icons/sl";
 function Hero() {
   return (
     <>
-      <div className="h-64 md:h-screen bg-contain bg-no-repeat md:bg-cover pt-40" style={{backgroundImage: `url(${banner})`}}>
+      <div className="h-[28rem] md:h-screen bg-contain bg-no-repeat md:bg-cover pt-40" style={{backgroundImage: `url(${banner})`}}>
       <div className="hidden md:flex md:mx-4 lg:mx-auto lg:w-3/4 justify-between px-9 py-4 bg-[#D9D9D9] rounded-lg shadow-lg">
         <div className="flex flex-col items-center">
           <label className="mb-2 text-sm font-semibold">Check-in</label>

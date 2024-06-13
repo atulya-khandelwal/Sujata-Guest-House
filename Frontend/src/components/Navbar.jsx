@@ -15,7 +15,7 @@ const Navbar = () => {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
             <img className="h-8 w-8" src="logo.png" alt="Logo" />
-            <h1 className="ml-2 text-blue-600 text-xl font-bold">SUJATA GUEST HOUSE</h1>
+            <h1 className="ml-2 text-blue-600 sm:text-xl text-sx font-bold">SUJATA GUEST HOUSE</h1>
           </div>
           <div className="hidden md:flex items-center space-x-4">
             <a href="#" className="text-gray-600 hover:text-gray-800 flex items-center"><MdLanguage className='h-5 w-5 mr-1'/>Language</a>
